@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Kshitij Watmare</h2>
+<h2 align="left">Hi 👋! My name is Kshitij Watmare.</h2>
 
 ###
 
